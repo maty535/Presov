@@ -27,7 +27,7 @@ author: Ing. Matúš Ivanecký
 | **Ročný lístok**                                 | 250,00 €     | 199,00 €     | 190,00 €     | 146,00 €     | 365,00 €     |
 | **Detský lístok**                                | N/A          | 12,50 €      | 11,00 €      | 0 € (do 15 r.) | 0 do 6r.   |
 | **Študentský mesačný lístok**                    | N/A          | 12,50 €      | 11,00 €      | 5,18 €      | N/A      |
-| **Študentský 3-mesačný lístok**                  | 39,00  €      | 34,00 €      | 27,30 € - 78 € (všetky zóny)       | 14,35 €      | N/A      |
+| **Študentský 3-mesačný lístok**                  | {: style=";background-color: #900C3F; color: white;" } 39,00  €      | 34,00 €      | 27,30 € - 78 € (všetky zóny)       | 14,35 €      | N/A      |
 | **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | N/A €      | **75,00 €**  |
 | **Študentský prázdninový lístok**                | N/A          | N/A          | N/A          | N/A          | **29,50 € (mesačne v lete)** |
 | **Študentský na rok (2× semester + 2× prázdniny)** | N/A          | 150,00 €     | 95,00 €     | 51,00 €     | **209,00 €** |
