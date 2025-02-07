@@ -48,6 +48,13 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
+
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
 #################################################################################
@@ -99,5 +106,6 @@ plugins:
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme
+  - jekyll-spaceship
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
