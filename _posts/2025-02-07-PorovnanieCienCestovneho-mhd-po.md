@@ -9,6 +9,12 @@ author: Ing. Matúš Ivanecký
 ---
 
 
+<script src="/assets/js/tableSearch.js"></script>
+<div>
+  <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
+  <input type="button" value="Vyhľadať" onclick="search();"/><br/>
+</div>
+
 | Kritérium                                        | Prešov       | Košice       | Brno         | Praha        | Viedeň       |
 |--------------------------------------------------|-------------|-------------|-------------|-------------|-------------|
 | **Jednorazový lístok (10-30 min)**               | 1,00 € (20 min) | 1,00 € (pp)/ 0,90 € (el. 30 min) | 0,80 € (15 min) | 1,20 € (30 min) | 2,40 € (90 min) |
