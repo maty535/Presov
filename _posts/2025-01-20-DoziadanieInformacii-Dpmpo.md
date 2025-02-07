@@ -17,8 +17,8 @@ author: Ing. Matúš Ivanecký
 
 |: Tarifa :|: Počet :|
 | --- | ---- |
-| ročný Evidenčný 18 | **6 208** :|
-| ročný Evidenčný 18 | **1 172** :|
+| Ročný Evidenčný 18 | **6 208** :|
+| 3-mesačný Evidenčný 18 | **1 172** :|
 |===
 |:  Spolu  | **7 380** :|
 
