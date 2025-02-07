@@ -25,15 +25,15 @@ author: Ing. Matúš Ivanecký
 | **72-hodinový lístok**                           | N/A          | N/A          | 12,00 €      | 13,15 €      | 17,10 €      |
 | **7-dňový lístok**                               | N/A          | 12€          | 16,00 €      | 17,00 €      | 17,10 €      |
 | **Mesačný lístok**                               | 25,00 €      | 25,00 €      | 22,00 €      | 22,00 €      | 51,00 €      |
-| **Ročný lístok**                                 | 250,00 €     | 199,00 €     | 190,00 €     | 146,00 €     | 365,00 €     |
+| **Ročný lístok**                                 | 250,00 €     | 199,00 €     | 190,00 €     | 146,00 € {: style=";background-color: green; color: white;" } | 365,00 €     |
 | **Detský lístok**                                | N/A          | 12,50 €      | 11,00 €      | 0 € (do 15 r.) | 0 do 6r.   |
 | **Študentský mesačný lístok**                    | N/A          | 12,50 €      | 11,00 €      | 5,18 €      | N/A      |
 | **Študentský 3-mesačný lístok**                  |  39,00  € {: style=";background-color: #900C3F; color: white;" } | 34,00 €      | 27,30 € - 78 € (všetky zóny)       | 14,35 €      | N/A      |
 | **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | N/A €      | **75,00 €**  |
 | **Študentský prázdninový lístok**                | N/A          | N/A          | N/A          | N/A          | **29,50 € (mesačne v lete)** |
 | **Študentský na rok (2× semester + 2× prázdniny)** | N/A          | 150,00 €     | 95,00 €     | 51,00 €     | **209,00 €** |
-| **Študentský lístok TOP (Top Youth Ticket) do 24 r.**        | N/A          | N/A          | N/A          | N/A          | **86,00 € (celoročne neobmedzene v rámci Viedne, Dolného Rakúska a Burgenlandu)** |
-| **Študentský lístok (Youth Ticket) do 24 r.**                 | N/A          | N/A          | N/A          | N/A          | **19,60 € (školské dni, len medzi domovom a školou/prácou)** |
+| **Študentský lístok TOP (Top Youth Ticket) do 24 r.**        | N/A          | N/A          | N/A          | N/A          | **86,00 € (celoročne neobmedzene v rámci Viedne, Dolného Rakúska a Burgenlandu)** {: style=";background-color: green; color: white;" } |
+| **Študentský lístok (Youth Ticket) do 24 r.**                 | N/A          | N/A          | N/A          | N/A          | **19,60 € (školské dni, len medzi domovom a školou/prácou)** {: style=";background-color: green; color: white;" } |
 | **Druhy dopravy**                                | Autobusy, trolejbusy | Električky, autobusy | Električky, autobusy, trolejbusy | Metro, električky, autobusy | Metro, električky, autobusy |
 | **Frekvencia spojov (špička)**                   | 10–20 min    | 7–15 min     | 5–10 min     | 2–8 min      | 3–5 min      |
 | **Rozsah siete (km)**                            | ~80 km       | ~100 km      | ~300 km      | ~550 km      | ~1 150 km    |
