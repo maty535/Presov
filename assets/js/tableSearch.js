@@ -1,4 +1,5 @@
-
+function search(){
+  
   var s = document.getElementById('search').value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '')
 
   rows = (document.getElementsByTagName('tbody')[0]).getElementsByTagName('TR');
