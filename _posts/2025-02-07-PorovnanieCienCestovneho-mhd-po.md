@@ -20,16 +20,16 @@ author: Ing. Matúš Ivanecký
 |--------------------------------------------------|-------------|-------------|-------------|-------------|-------------|
 | **Jednorazový lístok (10-30 min)**               | 1,00 € (20 min) {: style=";background-color: #FFC300; color: white;" } | 1,00 € (pp)/ 0,90 € (el. 30 min) | 0,80 € (15 min) | 1,20 € (30 min) | 2,40 € (90 min) |
 | **Jednorazový lístok (60/90 min)**               | 1,20 € (60min)  {: style=";background-color: #FFC300; color: white;" }| 1,20 € /1.09 € (el.)      | 1,00 € (60 min) / 1.32 €  (90 min) | 1,60 €  (90 min)     | 2,40 € (90 min) |
-| **24-hodinový lístok**                           | 3,00 €       | 3,80 € / 3.69 € (el.)        | 5,00 €       | 4.78 €       | 8,00 €       |
+| **24-hodinový lístok**                           | 3,00 €       | 3,80 € / 3.69 € (el.)        | 5,00 €      | 4.78 €       | 8,00 €       |
 | **48-hodinový lístok**                           | N/A          | N/A          | 9,00 €       | N/A          | 14,10 €      |
 | **72-hodinový lístok**                           | N/A          | N/A          | 12,00 €      | 13,15 €      | 17,10 €      |
 | **7-dňový lístok**                               | N/A          | 12€          | 16,00 €      | 17,00 €      | 17,10 €      |
-| **Mesačný lístok**                               | 25,00 €      | 25,00 €      | 22,00 €      | 22,00 €      | 51,00 €      |
+| **Mesačný lístok**                               | 25,00 €      | 25,00 €      | 22,00 €      | 22,00 €   {: style=";background-color: green; color: white;" } | 51,00 €      |
 | **Ročný lístok**                                 | 250,00 €     | 199,00 €     | 190,00 €  {: style=";background-color: #FFC300; color: white;" }| 146,00 € {: style=";background-color: green; color: white;" } | 365,00 €     |
 | **Detský lístok**                                | N/A          | 12,50 €      | 11,00 €      | 0 € (do 15 r.) | 0 do 6r.   |
-| **Študentský mesačný lístok**                    | N/A          | 12,50 €      | 11,00 €      | 5,18 €      | N/A      |
-| **Študentský 3-mesačný lístok**                  |  39,00  € {: style=";background-color: #900C3F; color: white;" } | 34,00 €      | 27,30 € - 78 € (všetky zóny)       | 14,35 €      | N/A      |
-| **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | N/A €      | **75,00 €**  |
+| **Študentský mesačný lístok**                    | N/A          | 12,50 €      | 11,00 €      | 5,18 €  {: style=";background-color: green; color: white;" }  | N/A      |
+| **Študentský 3-mesačný lístok**                  |  39,00  € {: style=";background-color: #900C3F; color: white;" } | 34,00 €      | 27,30 € - 78 € (všetky zóny)       | 14,35 €   {: style=";background-color: green; color: white;" }   | N/A      |
+| **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | N/A €      | **75,00 €**  {: style=";background-color: green; color: white;" }|
 | **Študentský prázdninový lístok**                | N/A          | N/A          | N/A          | N/A          | **29,50 € (mesačne v lete)** |
 | **Študentský na rok (2× semester + 2× prázdniny)** | N/A          | 150,00 €     | 95,00 €     | 51,00 €     | **209,00 €** |
 | **Študentský lístok TOP (Top Youth Ticket) do 24 r.**        | N/A          | N/A          | N/A          | N/A          | **86,00 € (celoročne neobmedzene v rámci Viedne, Dolného Rakúska a Burgenlandu)** {: style=";background-color: green; color: white;" } |
