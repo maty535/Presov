@@ -14,6 +14,7 @@ author: Ing. Matúš Ivanecký
   <input type="text" size="30" maxlength="1000" value="" id="search" onkeyup="delayedSearch();" />
   <input type="button" value="Vyhľadať" onclick="search();"/><br/>
 </div>
+<br/>
 
 | Kritérium                                        | Prešov       | Košice       | Brno         | Praha        | Viedeň       |
 |--------------------------------------------------|-------------|-------------|-------------|-------------|-------------|
