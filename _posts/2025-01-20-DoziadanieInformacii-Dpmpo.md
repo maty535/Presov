@@ -13,7 +13,7 @@ author: Ing. Matúš Ivanecký
 - [DODATOK č. 13 k Rámcovej zmluve o službách vo verejnom záujme a zabezpečení mestskej hromadnej dopravy osôb v meste Prešov na roky 2017 - 2026]({{ '/assets/2024-09-27-Dodatok13-MHD-PO.pdf' | relative_url }})
 
 
-## Bezplatnú dopravu študentov v meste Prešov vyuzilo spolu
+## Bezplatnú dopravu študentov v meste Prešov využilo v roku 2024 spolu
 
 |: Tarifa :|: Počet :|
 | --- | ---- |
