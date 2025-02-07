@@ -9,9 +9,6 @@ author: Ing. Matúš Ivanecký
 ---
 
 
-
-Tu je aktualizovaná tabuľka, ktorá správne zahŕňa oba typy študentských lístkov vo Viedni – kombináciu semestrálnych a prázdninových lístkov (209,00 € ročne) a Top-Jugendticket (86,00 € ročne).
-
 | Kritérium                                        | Prešov       | Košice       | Brno         | Praha        | Viedeň       |
 |--------------------------------------------------|-------------|-------------|-------------|-------------|-------------|
 | **Jednorazový lístok (20-30 min)**               | 1,00 € (20 min) | 0,90 € (30 min) | 0,80 € (15 min) | 1,20 € (30 min) | 2,40 € (90 min) |
