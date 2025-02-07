@@ -27,10 +27,12 @@ Tu je aktualizovaná tabuľka, ktorá správne zahŕňa oba typy študentských 
 | **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | 65,00 €      | **75,00 €**  |
 | **Študentský prázdninový lístok**                | N/A          | N/A          | N/A          | N/A          | **29,50 € (mesačne v lete)** |
 | **Študentský celkový lístok na rok (2× semester + 2× prázdniny)** | N/A          | 150,00 €     | 150,00 €     | 120,00 €     | **209,00 €** |
-| **Top-Jugendticket (Top Youth Ticket)**          | N/A          | N/A          | N/A          | N/A          | **86,00 € (celoročne neobmedzene v rámci Viedne, Dolného Rakúska a Burgenlandu)** |
-| **Jugendticket (Youth Ticket)**                  | N/A          | N/A          | N/A          | N/A          | **19,60 € (školské dni, len medzi domovom a školou/prácou)** |
+| **Študentský lístok TOP (Top Youth Ticket) do 24 r.**        | N/A          | N/A          | N/A          | N/A          | **86,00 € (celoročne neobmedzene v rámci Viedne, Dolného Rakúska a Burgenlandu)** |
+| **Študentský lístok (Youth Ticket) do 24 r.**                 | N/A          | N/A          | N/A          | N/A          | **19,60 € (školské dni, len medzi domovom a školou/prácou)** |
 | **Druhy dopravy**                                | Autobusy, trolejbusy | Električky, autobusy | Električky, autobusy, trolejbusy | Metro, električky, autobusy | Metro, električky, autobusy |
 | **Frekvencia spojov (špička)**                   | 10–20 min    | 7–15 min     | 5–10 min     | 2–8 min      | 3–5 min      |
 | **Rozsah siete (km)**                            | ~80 km       | ~100 km      | ~300 km      | ~550 km      | ~1 150 km    |
 | **Komfort vozidiel**                             | Moderné autobusy a trolejbusy | Zmodernizované električky, niektoré staršie autobusy | Väčšinou nové električky a autobusy | Moderná nízkopodlažná flotila | Najvyšší komfort, ekologické vozidlá |
 | **Nočná doprava**                                | Takmer neexistuje | Minimálna nočná doprava | Nočné linky v pravidelných intervaloch | Hustá nočná sieť električiek a autobusov | Metro jazdí cez víkendy, nočné autobusy denne |
+
+Toto porovnanie teraz presne odzrkadľuje dostupné študentské lístky vo Viedni. Študenti si môžu vybrať medzi kombináciou semestrálnych a prázdninových lístkov (209,00 € ročne) alebo Top-Jugendticket (86,00 € ročne), ktoré je lacnejšie, ale platí v širšej oblasti.
