@@ -20,7 +20,7 @@ author: Ing. Matúš Ivanecký
 | ročný Evidenčný 18 | **6 208** :|
 | ročný Evidenčný 18 | **1 172** :|
 |===
-|:  Spolu:  | **7 380** :|
+|:  Spolu  | **7 380** :|
 
 
 
