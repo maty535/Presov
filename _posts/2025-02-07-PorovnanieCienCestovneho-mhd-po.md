@@ -11,19 +11,20 @@ author: Ing. Matúš Ivanecký
 
 | Kritérium                                        | Prešov       | Košice       | Brno         | Praha        | Viedeň       |
 |--------------------------------------------------|-------------|-------------|-------------|-------------|-------------|
-| **Jednorazový lístok (20-30 min)**               | 1,00 € (20 min) | 0,90 € (30 min) | 0,80 € (15 min) | 1,20 € (30 min) | 2,40 € (90 min) |
-| **Jednorazový lístok (60 min)**                  | 1,20 €       | 1,20 €       | 1,00 €       | 1,60 €       | 2,40 € (90 min) |
-| **24-hodinový lístok**                           | 3,00 €       | 4,00 €       | 5,00 €       | 5,60 €       | 8,00 €       |
-| **48-hodinový lístok**                           | N/A          | N/A          | 9,00 €       | 10,00 €      | 14,10 €      |
-| **72-hodinový lístok**                           | N/A          | N/A          | 12,00 €      | 13,00 €      | 17,10 €      |
+| **Jednorazový lístok (10-30 min)**               | 1,00 € (20 min) | 0,90 € (30 min) | 0,80 € (15 min) | 1,20 € (30 min) | 2,40 € (90 min) |
+| **Jednorazový lístok (60/90 min)**               | 1,20 € (60min)  | 1,20 €       | 1,00 € (60 min) / 1.32 €  (90 min) | 1,60 €  (90 min)     | 2,40 € (90 min) |
+| **24-hodinový lístok**                           | 3,00 €       | 4,00 €       | 5,00 €       | 4.78 €       | 8,00 €       |
+| **48-hodinový lístok**                           | N/A          | N/A          | 9,00 €       | N/A          | 14,10 €      |
+| **72-hodinový lístok**                           | N/A          | N/A          | 12,00 €      | 13,15 €      | 17,10 €      |
 | **7-dňový lístok**                               | N/A          | N/A          | 16,00 €      | 17,00 €      | 17,10 €      |
 | **Mesačný lístok**                               | 25,00 €      | 25,00 €      | 22,00 €      | 22,00 €      | 51,00 €      |
-| **Ročný lístok**                                 | 250,00 €     | 250,00 €     | 190,00 €     | 146,00 €     | 365,00 €     |
-| **Študentský mesačný lístok**                    | N/A          | 15,00 €      | 18,00 €      | 14,00 €      | N/A      |
-| **Študentský 3-mesačný lístok**                  | 39,00  €      | 15,00 €      | 18,00 €      | 14,00 €      | N/A      |
-| **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | 65,00 €      | **75,00 €**  |
+| **Ročný lístok**                                 | 250,00 €     | 199,00 €     | 190,00 €     | 146,00 €     | 365,00 €     |
+| **Detský lístok**                                | N/A          | 12,50 €      | 11,00 €      | 0 € (do 15 r.) | 0 do 6r.   |
+| **Študentský mesačný lístok**                    | N/A          | 12,50 €      | 11,00 €      | 5,18 €      | N/A      |
+| **Študentský 3-mesačný lístok**                  | 39,00  €      | 34,00 €      | 27,30 € - 78 € (všetky zóny)       | 14,35 €      | N/A      |
+| **Študentský semestrálny lístok**                | N/A          | N/A          | 100,00 €     | N/A €      | **75,00 €**  |
 | **Študentský prázdninový lístok**                | N/A          | N/A          | N/A          | N/A          | **29,50 € (mesačne v lete)** |
-| **Študentský celkový lístok na rok (2× semester + 2× prázdniny)** | N/A          | 150,00 €     | 150,00 €     | 120,00 €     | **209,00 €** |
+| **Študentský na rok (2× semester + 2× prázdniny)** | N/A          | 150,00 €     | 95,00 €     | 51,00 €     | **209,00 €** |
 | **Študentský lístok TOP (Top Youth Ticket) do 24 r.**        | N/A          | N/A          | N/A          | N/A          | **86,00 € (celoročne neobmedzene v rámci Viedne, Dolného Rakúska a Burgenlandu)** |
 | **Študentský lístok (Youth Ticket) do 24 r.**                 | N/A          | N/A          | N/A          | N/A          | **19,60 € (školské dni, len medzi domovom a školou/prácou)** |
 | **Druhy dopravy**                                | Autobusy, trolejbusy | Električky, autobusy | Električky, autobusy, trolejbusy | Metro, električky, autobusy | Metro, električky, autobusy |
