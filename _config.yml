@@ -30,8 +30,6 @@ navbar-var-length: false
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
-exclude: [vendor]
-
 ######################################
 # --- Colours / background image --- #
 ######################################
@@ -97,6 +95,8 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor/*
+  - site_template/* 
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
