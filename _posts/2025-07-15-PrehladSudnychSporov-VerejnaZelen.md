@@ -15,6 +15,7 @@ author: Ing. Matúš Ivanecký
   <input type="button" value="Vyhľadať" onclick="search();"/><br/>
 </div>
 ---
+
 | P.Č. | Účastníci konania | Spisová značka súdu | ECLI |
 |---|---|---|---|
 | 1. | Peter Jarkovský a/a Mesto Prešov | OS PO sp. zn. 28C/337/07 | ECLI:SK:OSPO:2025:8107226818.44 |
