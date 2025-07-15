@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prehľad údnych sporov mesta Prešov o verejnú zeleň na súkromných pozemkoch"
+title: "Prehľad súdnych sporov mesta Prešov o verejnú zeleň na súkromných pozemkoch a veci s tým súvisiace"
 date: 2025-07-15
 readtime: true
 categories: pravo informacie uzemne planovanie zelen
