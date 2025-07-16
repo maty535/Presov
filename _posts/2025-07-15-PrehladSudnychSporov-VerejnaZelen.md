@@ -18,7 +18,7 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 </div>
 ---
 
-| P.Č. | Účastníci konania | Spisová značka súdu | ECLI | Dokumentácia |
+| P.Č. | Účastníci konania | Spisová značka súdu | ECLI | Dokumentácia / Poznámka |
 |---|---|---|:---:|---|
 | 1. | [Peter Jarkovský a/a Mesto Prešov]({{ page.proces_uri_prefix }}941) | OS PO sp. zn. 28C/337/07 | ECLI:SK:OSPO:2025:8107226818.44 |
 | 2.| [Peter Jarkovský-CORYN<br>BENC, s.r.o.<br>PONECO s.r.o.<br>CORS, spol. s r.o.<br>Peter Jarkovský c/a Mesto Prešov]({{ page.proces_uri_prefix }}4072497) | OS PO sp. zn. 100/133/2012, KS PO sp. zn. 14Co/17/2018, NS SR 4Cdo/161/2020, OS PO 16C/14/2023, KS PO 1Co/9/2025 | ECLI:SK:OSPO:2019:8112219875.20, ECLISK:KSPO:2020:8112219875.4 ,ECLI:SK:NSSR:2022:8112219875.1, ECLI:SK:OSPO:2024/8123201047.3, ECLISK:KSPO:2025:8123201047.1 |
@@ -26,7 +26,7 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 | 4. | [Peter Jarkovský-CORS, s.r.o./c/a Mesto Prešov]({{ page.proces_uri_prefix }}/220701) | OS PO sp. zn. 29C/316/2007 | ECLI:SK:OSPO:2015:8107225360.35 |
 | 5. | [Peter Jarkovský c/a Mesto Prešov]({{ page.proces_uri_prefix }}1577402) | OS PO sp. zn. 8C/161/2011 | ECLI:SK:OSPO:2025:8111219667.27 |
 | 6. | [Peter Jarkovský - CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}2625269) | OS PO sp. zn. 10C/19/2017, KS PO sp. zn. 25Co/41/2024 | ECLI:SK:OSPO:2024:8117217350.8 |
-| 7. | [Peter Jarkovský-CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}2461410) | OS PO sp. zn. 20C/16/2017, KS PO sp. zn. 9Co/66/2022 | ECLISK:OSPO:2022:8117217187.13, ECLI:SK:KSPO:2023:8117217187.1 |
+| 7. | [Peter Jarkovský-CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}2461410) | OS PO sp. zn. 20C/16/2017, KS PO sp. zn. 9Co/66/2022 | ECLISK:OSPO:2022:8117217187.13, ECLI:SK:KSPO:2023:8117217187.1 | Pod Skalkou|
 | 8. | Peter Jarkovský-CORYN c/a Mesto Prešov | OS PO sp. zn. 22C/233/2018, KS PO sp. zn. 7Cob/44/2021, NS SR sp. zn. 3Obdo/2/2023 | ECLISK:OSPO:2021:8118217427.9, ECLI:SK:KSPO:2022:8118217427.1, ECLISKNSSR:2024:8118217427.1 |
 | 9. | Peter Jarkovský c/a Mesto Prešov | OS PO sp. zn. 19Co/101/2020, KS PO sp. zn. 12Co/38/2022, NS SR sp. zn. 2Cdo/108/2023 | ECLI:SK:OSPO:2022:8120214109.1, ECLI:SK:KSPO:2022:8120214109.1 |
 | 10. | Peter Jarkovský c/a Mesto Prešov | OS PO sp. zn. 29C/58/2021, KS PO sp. zn. 2Co/47/2022, NS SR sp. zn. 3Cdo/23/2024 | ECLI:SK:OSPO:2022:8121205653.2, ECLI:SK:KSPO:2023:8121205653.1, ECLI:SK:NSSR:2025:8121205653.1 |
