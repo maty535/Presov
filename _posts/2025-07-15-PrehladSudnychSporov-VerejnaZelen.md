@@ -25,8 +25,8 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 | 3. | [Peter Jarkovský - CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}1950961) | OS PO sp. zn. 29C/229/2015, KS PO sp. zn. 12Co/21/2021, NS SR sp. zn. 2Cdo/53/2022 | ECLI:SK:OSPO:2024:8115209634.21, ECLI:SK:KSPO:2021:8115209634.4, ECLI:SK:NSSR:2024:8115209634.1 |
 | 4. | [Peter Jarkovský-CORS, s.r.o./c/a Mesto Prešov]({{ page.proces_uri_prefix }}/220701) | OS PO sp. zn. 29C/316/2007 | ECLI:SK:OSPO:2015:8107225360.35 |
 | 5. | [Peter Jarkovský c/a Mesto Prešov]({{ page.proces_uri_prefix }}1577402) | OS PO sp. zn. 8C/161/2011 | ECLI:SK:OSPO:2025:8111219667.27 |
-| 6. | [Peter Jarkovský - CORYN c/a Mesto Prešov]({{ proces_uri_prefix }}2625269) | OS PO sp. zn. 10C/19/2017, KS PO sp. zn. 25Co/41/2024 | ECLI:SK:OSPO:2024:8117217350.8 |
-| 7. | Peter Jarkovský-CORYN c/a Mesto Prešov | OS PO sp. zn. 20Co/16/2017, KS PO sp. zn. 9Co/66/2022 | ECLISK:OSPO:2022:8117217187.13, ECLI:SK:KSPO:2023:8117217187.1 |
+| 6. | [Peter Jarkovský - CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}2625269) | OS PO sp. zn. 10C/19/2017, KS PO sp. zn. 25Co/41/2024 | ECLI:SK:OSPO:2024:8117217350.8 |
+| 7. | [Peter Jarkovský-CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}2461410) | OS PO sp. zn. 20C/16/2017, KS PO sp. zn. 9Co/66/2022 | ECLISK:OSPO:2022:8117217187.13, ECLI:SK:KSPO:2023:8117217187.1 |
 | 8. | Peter Jarkovský-CORYN c/a Mesto Prešov | OS PO sp. zn. 22C/233/2018, KS PO sp. zn. 7Cob/44/2021, NS SR sp. zn. 3Obdo/2/2023 | ECLISK:OSPO:2021:8118217427.9, ECLI:SK:KSPO:2022:8118217427.1, ECLISKNSSR:2024:8118217427.1 |
 | 9. | Peter Jarkovský c/a Mesto Prešov | OS PO sp. zn. 19Co/101/2020, KS PO sp. zn. 12Co/38/2022, NS SR sp. zn. 2Cdo/108/2023 | ECLI:SK:OSPO:2022:8120214109.1, ECLI:SK:KSPO:2022:8120214109.1 |
 | 10. | Peter Jarkovský c/a Mesto Prešov | OS PO sp. zn. 29C/58/2021, KS PO sp. zn. 2Co/47/2022, NS SR sp. zn. 3Cdo/23/2024 | ECLI:SK:OSPO:2022:8121205653.2, ECLI:SK:KSPO:2023:8121205653.1, ECLI:SK:NSSR:2025:8121205653.1 |
