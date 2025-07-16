@@ -6,7 +6,7 @@ readtime: true
 categories: pravo informacie uzemne planovanie zelen
 tags: právo 2025 zelen sukromné pozemky 
 author: Ing. Matúš Ivanecký
-proces_uri_prefix: "https://otvorenesudy.sk/proceedings"
+proces_uri_prefix: "https://otvorenesudy.sk/proceedings/"
 proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 ---
 
@@ -41,4 +41,4 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 | 19. | PONECO, s.r.o., c/a Mesto Prešov | OS PO sp. zn. 16Co/132/2011, KS PO sp. zn. 22Co/32/2024 | ECLI:SK:OSPO:2024:8111216314.3, ECLI:SK:KSPO:2024:8111216314.3 |
 | 20. | PONECO, s.r.o. c/a Mesto Prešov | OS PO sp. zn. 29C/13/2008, KS PO sp. zn. 14Co/8/2024 | ECLI:SK:OSPO:2024:8108201443.15, ECLI:SK:KSPO:2024:8108201443.9 |
 | 21. | PONECO, s.r.o., c/a Mesto Prešov | OS PO sp. zn. 15Co/133/2012, KS PO sp. zn. 18Co/33/2024 | ECLI:SK:OSPO:2024:8112219872.8, ECLI:SK:KSPO:8112219872.2 |
-| 22. | [ECAV c/a Mesto Prešov]({{ page.proces_uri_prefix }}/2395573) | OS PO sp. zn. 8C/8/2017, KS PO sp. zn. 12Co/9/2024 | ECLI:SK:OSPO:2023:8117205512.10, ECLI:SK:KSPO:2025:8117205512.6 |
+| 22. | [ECAV c/a Mesto Prešov]({{ page.proces_uri_prefix }}2395573) | OS PO sp. zn. 8C/8/2017, KS PO sp. zn. 12Co/9/2024 | ECLI:SK:OSPO:2023:8117205512.10, ECLI:SK:KSPO:2025:8117205512.6 |
