@@ -18,9 +18,9 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 </div>
 ---
 
-| P.Č. | Účastníci konania | Spisová značka súdu | ECLI | Dokumentácia / Poznámka |
+| P.Č. | Účastníci konania | Spisová značka súdu | ECLI | Poznámka| Dokumentácia / Merito |
 |---|---|---|:---:|---|
-| 1. | [Peter Jarkovský a/a Mesto Prešov]({{ page.proces_uri_prefix }}941) | OS PO sp. zn. 28C/337/07 | ECLI:SK:OSPO:2025:8107226818.44 |
+| 1. | [Peter Jarkovský a/a Mesto Prešov]({{ page.proces_uri_prefix }}941) | OS PO sp. zn. 28C/337/07 | ECLI:SK:OSPO:2025:8107226818.44 |O náhradu za užívanie nehnuteľnosti|
 | 2.| [Peter Jarkovský-CORYN<br>BENC, s.r.o.<br>PONECO s.r.o.<br>CORS, spol. s r.o.<br>Peter Jarkovský c/a Mesto Prešov]({{ page.proces_uri_prefix }}4072497) | OS PO sp. zn. 100/133/2012, KS PO sp. zn. 14Co/17/2018, NS SR 4Cdo/161/2020, OS PO 16C/14/2023, KS PO 1Co/9/2025 | ECLI:SK:OSPO:2019:8112219875.20, ECLISK:KSPO:2020:8112219875.4 ,ECLI:SK:NSSR:2022:8112219875.1, ECLI:SK:OSPO:2024/8123201047.3, ECLISK:KSPO:2025:8123201047.1 |
 | 3. | [Peter Jarkovský - CORYN c/a Mesto Prešov]({{ page.proces_uri_prefix }}1950961) | OS PO sp. zn. 29C/229/2015, KS PO sp. zn. 12Co/21/2021, NS SR sp. zn. 2Cdo/53/2022 | ECLI:SK:OSPO:2024:8115209634.21, ECLI:SK:KSPO:2021:8115209634.4, ECLI:SK:NSSR:2024:8115209634.1 |
 | 4. | [Peter Jarkovský-CORS, s.r.o./c/a Mesto Prešov]({{ page.proces_uri_prefix }}/220701) | OS PO sp. zn. 29C/316/2007 | ECLI:SK:OSPO:2015:8107225360.35 |
@@ -41,4 +41,4 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 | 19. | PONECO, s.r.o., c/a Mesto Prešov | OS PO sp. zn. 16Co/132/2011, KS PO sp. zn. 22Co/32/2024 | ECLI:SK:OSPO:2024:8111216314.3, ECLI:SK:KSPO:2024:8111216314.3 |
 | 20. | PONECO, s.r.o. c/a Mesto Prešov | OS PO sp. zn. 29C/13/2008, KS PO sp. zn. 14Co/8/2024 | ECLI:SK:OSPO:2024:8108201443.15, ECLI:SK:KSPO:2024:8108201443.9 |
 | 21. | PONECO, s.r.o., c/a Mesto Prešov | OS PO sp. zn. 15Co/133/2012, KS PO sp. zn. 18Co/33/2024 | ECLI:SK:OSPO:2024:8112219872.8, ECLI:SK:KSPO:8112219872.2 |
-| 22. | [ECAV c/a Mesto Prešov]({{ page.proces_uri_prefix }}2395573) | OS PO sp. zn. 8C/8/2017, KS PO sp. zn. 12Co/9/2024 | ECLI:SK:OSPO:2023:8117205512.10, ECLI:SK:KSPO:2025:8117205512.6 | Kolmanka |
+| 22. | [ECAV c/a Mesto Prešov]({{ page.proces_uri_prefix }}2395573) | OS PO sp. zn. 8C/8/2017, KS PO sp. zn. 12Co/9/2024 | ECLI:SK:OSPO:2023:8117205512.10, ECLI:SK:KSPO:2025:8117205512.6 | Kolmanka | O vydanie bezdôvodného obohatenia|
