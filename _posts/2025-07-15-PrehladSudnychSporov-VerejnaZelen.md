@@ -42,3 +42,7 @@ proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
 | 20. | PONECO, s.r.o. c/a Mesto Prešov | OS PO sp. zn. 29C/13/2008, KS PO sp. zn. 14Co/8/2024 | ECLI:SK:OSPO:2024:8108201443.15, ECLI:SK:KSPO:2024:8108201443.9 |
 | 21. | PONECO, s.r.o., c/a Mesto Prešov | OS PO sp. zn. 15Co/133/2012, KS PO sp. zn. 18Co/33/2024 | ECLI:SK:OSPO:2024:8112219872.8, ECLI:SK:KSPO:8112219872.2 |
 | 22. | [ECAV c/a Mesto Prešov]({{ page.proces_uri_prefix }}2395573) | OS PO sp. zn. 8C/8/2017, KS PO sp. zn. 12Co/9/2024 | ECLI:SK:OSPO:2023:8117205512.10, ECLI:SK:KSPO:2025:8117205512.6 | Kolmanka | O vydanie bezdôvodného obohatenia|
+
+## Právne názory a citácie z rozsudkov
+
+- 18Co/21/2018: Podľa názoru odvolacieho súdu, ak nie je v občianskoprávnej rovine upravené všeobecné užívanie verejnej zelene, zahrňuje aj len časti pozemkov vlastnícky patriace tretej osobe, má to za následok vznik bezdôvodného obohatenia na strane obce plnením bez právneho dôvodu, pretože aj keď existuje právny pôvod užívania verejnej zelene, nejde o titul, podľa ktorého by obci vzniklo oprávnenie, aby takéto plnenie zo strany tretej osoby, t. j. strpenie užívania jej majetku, bolo poskytované bezplatne
