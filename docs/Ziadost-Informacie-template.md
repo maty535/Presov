@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 ## Ziadost o poskytnutie informácie na základe zákona o slobodnom prístupe k informaciám
 
 |:------------|:---------------|

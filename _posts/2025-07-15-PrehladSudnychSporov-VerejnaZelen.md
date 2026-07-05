@@ -8,6 +8,7 @@ tags: právo 2025 zelen sukromné pozemky
 author: Ing. Matúš Ivanecký
 proces_uri_prefix: "https://otvorenesudy.sk/proceedings/"
 proces_ecli_prefix: "https://otvorenesudy.sk/proceedings?file_number="
+author: "Ing. Matúš Ivanecký"
 ---
 
 

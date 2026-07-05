@@ -5,7 +5,7 @@ date: 2025-02-07
 readtime: true
 categories: pravo informacie doprava
 tags: dpmpo právo 2025 doprava
-author: Ing. Matúš Ivanecký
+author: "Ing. Matúš Ivanecký"
 ---
 
 

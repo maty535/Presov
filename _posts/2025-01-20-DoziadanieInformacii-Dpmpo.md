@@ -5,7 +5,7 @@ date: 2025-01-20
 readtime: true
 categories: pravo informacie doprava
 tags: dpmpo právo 2025 doprava
-author: Ing. Matúš Ivanecký
+author: "Ing. Matúš Ivanecký"
 ---
 
 ## Prezentácia dopravného podniku počas kontrolného dňa

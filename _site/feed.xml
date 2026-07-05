@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Prešov pre ľudí</title>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Program mojej kandidatúry za poslanca a primátora mesta Prešov</title>
+        <description>
+          
+          Daňová oblasť: revizia dane z nehnutelnosti, znizenie a komparacia kazdej jednej polozky podla inych krajskych miest a mestskych casti, oproti KE, BA, znizenie min. o 20% oproti sadzbam dane v tychto metropolách a ich mestských častiach. zmena spôsobu zvyšovania daní a poplatkov a to iba na základe vývoja štatistických ukazovateľov...
+        </description>
+        <pubDate>Sun, 05 Jul 2026 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2026-07-05-Komun%C3%A1lneVolby-kandidat%C3%BAra/</link>
+        <guid isPermaLink="true">http://localhost:4000/2026-07-05-Komun%C3%A1lneVolby-kandidat%C3%BAra/</guid>
+      </item>
+    
+      <item>
+        <title>Prehľad súdnych sporov mesta Prešov o verejný priestor na súkromných pozemkoch a veci s tým súvisiace</title>
+        <description>
+          
+          P.Č. Účastníci konania Spisová značka súdu ECLI Poznámka Dokumentácia / Merito 1. [Peter Jarkovský a/a Mesto Prešov](https://otvorenesudy.sk/proceedings/941) OS PO sp. zn. 28C/337/07 ECLI:SK:OSPO:2025:8107226818.44 Mestský cintorín O náhradu za užívanie nehnuteľnosti 2. [Peter Jarkovský-CORYNBENC, s.r.o.PONECO s.r.o.CORS, spol. s r.o.Peter Jarkovský c/a Mesto Prešov](https://otvorenesudy.sk/proceedings/4072497) OS PO sp. zn. 10C/133/2012, KS PO sp....
+        </description>
+        <pubDate>Tue, 15 Jul 2025 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2025-07-15-PrehladSudnychSporov-VerejnaZelen/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-07-15-PrehladSudnychSporov-VerejnaZelen/</guid>
+      </item>
+    
+      <item>
+        <title>Porovnanie cien MHD v mestach EU</title>
+        <description>
+          
+          Kritérium Prešov Košice Brno Praha Viedeň **Jednorazový lístok (10-30 min)** 1,00 € (20 min) {: style=&quot;;background-color: #FFC300; color: white;&quot; } 1,00 € (pp)/ 0,90 € (el. 30 min) 0,80 € (15 min) 1,20 € (30 min) 2,40 € (90 min) **Jednorazový lístok (60/90 min)** 1,20 € (60min) {: style=&quot;;background-color: #FFC300;...
+        </description>
+        <pubDate>Fri, 07 Feb 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025-02-07-PorovnanieCienCestovneho-mhd-po/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-02-07-PorovnanieCienCestovneho-mhd-po/</guid>
+      </item>
+    
+      <item>
+        <title>Ako získať informácie, ktoré nie sú zverejnené</title>
+        <description>
+          
+          Prezentácia dopravného podniku počas kontrolného dňa DODATOK č. 13 k Rámcovej zmluve o službách vo verejnom záujme a zabezpečení mestskej hromadnej dopravy osôb v meste Prešov na roky 2017 - 2026 Bezplatnú dopravu študentov v meste Prešov využilo v roku 2024 spolu : Tarifa : : Počet : Ročný Evidenčný...
+        </description>
+        <pubDate>Mon, 20 Jan 2025 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2025-01-20-DoziadanieInformacii-Dpmpo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2025-01-20-DoziadanieInformacii-Dpmpo/</guid>
+      </item>
+    
+  </channel>
+</rss>
