@@ -17,7 +17,8 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas
 
 * Vstupy na mestské kúpaliská, športové podujatia a kultúrne akcie organizované mestom.
 * 2 hodiny parkovania denne v ľubovoľnej zóne mesta v cene karty.
-* Cestovné v MHD.
+* Zľava pri využití MHD.
+* Zavedenie dopytovo riadenej MHD 
 * **Parkovacia politika:** Zavedenie parkovacích zón a rezidentského parkovania len tam, kde je to nevyhnutné a kde to občania sami požadujú (s výnimkou centrálnej mestskej zóny).
 
 ## 3. Efektivita a transparentnosť úradu
@@ -30,4 +31,4 @@ Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas
 
 ## 4. Infraštruktúra
 
-* **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry s prioritným zameraním na dobudovanie ucelenej siete cyklotrás.
+* **Modernizácia a rozvoj:** Zvýšenie objemu investícií do budovania a rozširovania verejnej mestskej infraštruktúry a pokračovanie v rozvoji siete cyklotrás.
