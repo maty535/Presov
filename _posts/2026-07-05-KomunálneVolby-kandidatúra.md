@@ -33,7 +33,7 @@ show-author: true
 
 - zefektivnenie procesov a sluzieb mesta a dodrziavanie zakonnych terminov
 - optimalizácia verejného osvetlenia a jeho svietenie je v čase pohybu osôb , alebo v čase výskytu osôb, okrem centrálnych zón a častí. Zníženie intenzity osvetlenia na min. možnú úroven v čase , ked je žiadny pohyb osôb. 
-- doraz na cistotu frekventovanych miest mesta a pravidelne cistenie a kontrola miest, kde bol zistene ukladanie odpadu
+- doraz na cistotu frekventovanych miest mesta a pravidelne cistenie a kontrola miest, kde bol zistene nepovolene ukladanie odpadu, resp. protispolocenske konanie.
 - doraz na poctivu komunikaciu a odovodnenie kazdej aktivity mesta este pred realizaciou,resp. pred schvaľovaním v MsZ., t.z. zvysenie transparentnosti a otvorene procesy a data.
 - odburanie Cinnosti , ktore  nie su vyzadovane zakonom + su vykonavane bez toho, aby obcanom prinasali nejaku pridanu hodnotu
 
