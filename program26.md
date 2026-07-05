@@ -13,7 +13,7 @@ permalink: /program26/
 
 ## 2. Verejné služby a „Bonusová karta Prešovčana“
 
-Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas uhradené všetky dane a poplatky voči mestu Prešov. Držitelia karty získajú 50 % zľavy na:
+Zavedenie bonusovej rezidentskej karty Prešovčana, ktorí majú riadne a včas uhradené všetky dane a poplatky voči mestu Prešov. Držitelia karty získajú MsZ schválené zľavy na:
 
 * Vstupy na mestské kúpaliská, športové podujatia a kultúrne akcie organizované mestom.
 * 2 hodiny parkovania denne v ľubovoľnej zóne mesta v cene karty.
